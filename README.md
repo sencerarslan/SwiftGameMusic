@@ -1,8 +1,10 @@
 # 🎶 Swift Game Music
 
-**Game Music**, SwiftUI ile geliştirilen etkileşimli bir mini müzik oyunudur.  
-Kullanıcının etkileşimlerine tepki veren dinamik ses efektleri ve fizik tabanlı hareketlerle müzik üretir.  
-SwiftUI, Combine ve AVFoundation kullanılarak sıfırdan oluşturulmuştur.
+**Game Music**, SwiftUI ile geliştirilen etkileşimli bir mini müzik oyunudur.
+Oyunda kullanıcıya, seçilen dil ve kategoriye göre rastgele 5 şarkı sunulur.
+Her şarkının ilk 30 saniyesini dinleyerek doğru tahmini yapmaya çalışırsınız.
+Tahmini ne kadar hızlı yaparsanız, o kadar yüksek puan kazanırsınız.
+Uygulama tamamen SwiftUI, Combine ve AVFoundation teknolojileriyle sıfırdan geliştirilmiştir.
 
 ---
 
