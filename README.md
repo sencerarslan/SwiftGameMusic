@@ -1,6 +1,6 @@
-# 🎶 SwiftGameMusic
+# 🎶 Swift Game Music
 
-**SwiftGameMusic**, SwiftUI ile geliştirilen etkileşimli bir mini müzik oyunudur.  
+**Game Music**, SwiftUI ile geliştirilen etkileşimli bir mini müzik oyunudur.  
 Kullanıcının etkileşimlerine tepki veren dinamik ses efektleri ve fizik tabanlı hareketlerle müzik üretir.  
 SwiftUI, Combine ve AVFoundation kullanılarak sıfırdan oluşturulmuştur.
 
@@ -10,11 +10,11 @@ SwiftUI, Combine ve AVFoundation kullanılarak sıfırdan oluşturulmuştur.
 
 ### 🎥 Video
 
-🔗 [Game Play Video İzle](https://github.com/sencerarslan/SwiftGameMusic/blob/main/screenrecording.mp4)
+🔗 [Game Play Video İzle](https://github.com/sencerarslan/swift-game-music/blob/main/screenrecording.mp4)
 
 ### 🌀 GIF Önizleme
 
-![SwiftGameMusic Gameplay](https://github.com/sencerarslan/SwiftGameMusic/blob/main/screenshot.gif)
+![SwiftGameMusic Gameplay](https://github.com/sencerarslan/swift-game-music/blob/main/screenshot.gif)
 
 ---
 
@@ -45,12 +45,12 @@ SwiftUI, Combine ve AVFoundation kullanılarak sıfırdan oluşturulmuştur.
 
 1. Depoyu klonla:
    ```bash
-   git clone https://github.com/sencerarslan/SwiftGameMusic.git
-   cd SwiftGameMusic
+   git clone https://github.com/sencerarslan/swift-game-music.git
+   cd swift-game-music
    ```
 2. Xcode 16 veya üzeri ile aç:
    ```bash
-   open SwiftGameMusic.xcodeproj
+   open gamemusic.xcodeproj
    ```
 3. Çalıştır (⌘ + R)  
    Simülatör veya gerçek cihazda oyunu başlat.
@@ -60,7 +60,7 @@ SwiftUI, Combine ve AVFoundation kullanılarak sıfırdan oluşturulmuştur.
 ## 📁 Proje Yapısı
 
 ```
-SwiftGameMusic/
+./
  ├── GameView.swift
  ├── MusicManager.swift
  ├── GameLogic/
